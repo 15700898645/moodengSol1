@@ -1,0 +1,5 @@
+/* 隐藏GitBook默认的搜索框 */
+
+.gb-search {
+    display: none !important;
+}
