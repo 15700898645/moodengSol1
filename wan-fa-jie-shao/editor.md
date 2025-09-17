@@ -30,7 +30,7 @@ layout:
 3.积分兑换为河马币
 ----------------
 
-1  ![积分](../.gitbook/assets/u_icon_jifen.png){:height="1em" width="auto"} = 1 ![MOODENG](../.gitbook/assets/u_icon_bi.png){:height="1em" width="auto"}
+1  <img src="../.gitbook/assets/u_icon_jifen.png" style="height:1.2em; width:auto; vertical-align:middle;"> = 1 <img src="../.gitbook/assets/u_icon_bi.png" style="height:1.2em; width:auto; vertical-align:middle;">
 
 兑换与提现MOODENG
 
