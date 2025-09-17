@@ -29,7 +29,7 @@ layout:
 
 > - 二级好友最高10%
 
-2.升级团队等级
+2.升级团队等级 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![NFT](../.gitbook/assets/hema3.png)<span>
 ----------------
 
 升级团队等级所需
