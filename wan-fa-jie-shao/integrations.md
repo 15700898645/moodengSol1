@@ -55,7 +55,7 @@ MOODENG后续将上线开放C2C市场，支持积分直接交易。
 
 **🌐我们的官网**
 
-[![官网](../.gitbook/assets/u_zi.png =100*100)](https://www.moodengsol.me)
+[![官网](../.gitbook/assets/u_zi.png)](https://www.moodengsol.me){:height="100px" width="400px"}
 
 
 ***🔗MOODENG下载网页**
