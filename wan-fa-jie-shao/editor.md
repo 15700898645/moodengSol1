@@ -22,7 +22,7 @@ layout:
 
 使用邮箱注册账号，选择所在国家并完成实名认证。
 
-2.领取免费河马NFTgit add .
+2.领取免费河马NFT
 ----------------
 
 完成实名后，免费领取呆萌河马NFT，每日产出10积分的免费河马，产出周期为365天。同时赠送呆萌河马宠物，通过每日喂养升级解锁更多收益。
@@ -30,7 +30,7 @@ layout:
 3.积分兑换为河马币
 ----------------
 
-1  ![积分](/assets/images/u_icon_jifen.png){:height="1em" width="auto"} = 1 ![MOODENG](/assets/images/u_icon_bi.png){:height="1em" width="auto"}
+1  ![积分](../.gitbook/assets/u_icon_jifen.png){:height="1em" width="auto"} = 1 ![MOODENG](../.gitbook/assets/u_icon_bi.png){:height="1em" width="auto"}
 
 兑换与提现MOODENG
 
