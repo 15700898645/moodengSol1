@@ -32,7 +32,7 @@ layout:
 
 <img src="../.gitbook/assets/u_icon_jifen.png" style="height:0.8em; width:auto; vertical-align:middle;">1积分 = 1 MOODENG
 
-<img src="../.gitbook/assets/u_icon_bi.png" style="height:0.8em; width:auto; vertical-align:middle;">兑换与提现MOODENG
+<img src="../.gitbook/assets/u_icon_bi.png" style="height:0.8em; width:auto; vertical-align:middle;"><span>&nbsp;</span> 兑换与提现MOODENG
 
 > - 积分兑换MOODENG需消耗1:1活跃度
 > - 提现 MOODENG 与 USDT 均收取固定 5% 手续费。
