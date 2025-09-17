@@ -63,6 +63,6 @@ MOODENG后续将上线开放C2C市场，支持积分直接交易。
 
 **✈️Telegram社区**
 
-[<img src="../.gitbook/assets/u_icon_t.png" =600x>](https://t.me/MOODENG_GlobalGame).
+[<img src="../.gitbook/assets/u_icon_t.png">  =600x](https://t.me/MOODENG_GlobalGame).
 
 
