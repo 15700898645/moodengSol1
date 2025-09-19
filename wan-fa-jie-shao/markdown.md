@@ -24,7 +24,7 @@ layout:
 
 > 同一高级河马 NFT 每人最多可购买 **2 只**。
 
-## 2.购买NFT奖励                  ![NFT](../.gitbook/assets/hema2.png)
+## 2.购买NFT奖励                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>  ![NFT](../.gitbook/assets/hema2.png)
 
 购买高级 NFT 可获得 宠物养成加速卡
 

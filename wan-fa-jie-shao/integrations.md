@@ -48,6 +48,16 @@ MOODENG后续将上线开放C2C市场，支持积分直接交易。
 
 **我的**界面可找到加入官方 Telegram 社区的方式，并添加个人社交账号（Telegram、WhatsApp、Gmail）。
 
-🌐我们的官网                                      🔗MOODENG下载网页                                   ✈️Telegram社区
 
-[![官网](../.gitbook/assets/u_icon_moodeng.png)](https://reg.moodengsol.me/landing.html)              [![官网](../.gitbook/assets/down.png)](https://reg.moodengsol.me/landing.html)                                               [![官网](../.gitbook/assets/u_icon_t.png)](https://t.me/MOODENG_GlobalGame)
+🌐我们的官网
+
+<a href="https://www.moodengsol.me/"><img src="../.gitbook/assets/u_icon_moodeng.png" style="display: inline" alt="官网"></a>
+
+
+🔗MOODENG下载网页
+
+<a href="https://www.moodengsol.me/landing.html"><img src="../.gitbook/assets/down.png" style="display: inline" alt="下载"></a>
+
+✈️Telegram社区
+
+<a href="https://t.me/MOODENG_GlobalGame"><img src="../.gitbook/assets/u_icon_t.png" style="display: inline" alt="社区"></a>

@@ -1,5 +1,4 @@
 ---
-description: 
 icon: sack-dollar
 layout:
   width: default
@@ -19,8 +18,7 @@ layout:
 
 # 五.钱包介绍和社交板块
 
-1.功能介绍
-----------------
+## 1.功能介绍
 
 【钱包】
 
@@ -28,14 +26,12 @@ layout:
 
 【提现】支持提现USDT与MONDENG币种
 
-> 提现MONDENG或USDT时，统一收取5%手续费
-> 转账网络支持SOL，TRON
+> 提现MONDENG或USDT时，统一收取5%手续费 转账网络支持SOL，TRON
 
->  【账单】记录查询所有收支明细
-
+> 【账单】记录查询所有收支明细
 
 【积分应用】查看积分使用场景：
->
+
 > ①积分兑换
 >
 > ②河马代币空投
@@ -48,29 +44,20 @@ layout:
 
 MOODENG后续将上线开放C2C市场，支持积分直接交易。
 
-2.社交
-----------------
+## 2.社交
 
 **我的**界面可找到加入官方 Telegram 社区的方式，并添加个人社交账号（Telegram、WhatsApp、Gmail）。
 
-**🌐我们的官网**
+
+🌐我们的官网
+
+<a href="https://www.moodengsol.me/"><img src="../.gitbook/assets/u_icon_moodeng.png" style="display: inline" alt="官网"></a>
 
 
-<a href="https://reg.moodengsol.me/landing.html">
-  <img src="../.gitbook/assets/u_zi.png" style="width:50%; alt="官网">
-</a>
+🔗MOODENG下载网页
 
-***🔗MOODENG下载网页**
+<a href="https://www.moodengsol.me/landing.html"><img src="../.gitbook/assets/down.png" style="display: inline" alt="下载"></a>
 
-<a href="https://reg.moodengsol.me/landing.html">
-  <img src="../.gitbook/assets/down.png" style="width:50%; alt="官网">
-</a>
+✈️Telegram社区
 
-
-**✈️Telegram社区**
-
-<a href="https://t.me/MOODENG_GlobalGame">
-  <img src="../.gitbook/assets/u_icon_t.png" style="width:50%; alt="官网">
-</a>
-
-
+<a href="https://t.me/MOODENG_GlobalGame"><img src="../.gitbook/assets/u_icon_t.png" style="display: inline" alt="社区"></a>
